@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://github.com/aysunei-06">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Aysun+Iskenderli+👋;C%23+Developer+%7C+Frontend+Enthusiast;Building+modern+apps+with+.NET+%26+SQL+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Aysun+Iskenderli;C%23+Developer+%7C+Frontend+Enthusiast;Building+modern+apps+with+.NET+and+SQL" alt="Typing SVG" />
   </a>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=aysunei-06&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%">
@@ -59,8 +59,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[lgsablonapp](https://github.com/aysunei-06/lgsablonapp)** | A modern application template built with TypeScript. | `TypeScript` `Web` |
-| **[sql_task](https://github.com/aysunei-06/sql_task)** | Database management tasks and complex SQL queries. | `SQL` `Database` |
-| **[sql2](https://github.com/aysunei-06/sql2)** | Advanced database structure and relational mapping. | `T-SQL` |
+
 
 ---
 
