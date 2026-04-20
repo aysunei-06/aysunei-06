@@ -53,8 +53,8 @@ GitHub Streak
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: (link əlavə et)
-- 📧 Email: (istəsən əlavə et)
+- 💼 LinkedIn: https://www.linkedin.com/in/aysun-isk%C9%99nd%C9%99rli-3bb51a3b3/?skipRedirect=true
+- 📧 Email: aysunisk06@gmail.com
 
 ---
 
