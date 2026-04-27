@@ -59,7 +59,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[lgsablonapp](https://github.com/aysunei-06/lgsablonapp)** | A modern application template built with TypeScript. | `TypeScript` `Web` |
-| **[starbucks.global.websites](https://github.com/aysunei-06/starbucks.global.websites)** | A modern application template built with TypeScript. | `TypeScript` `Web` |
+| **[starbucks.global.websites](https://github.com/aysunei-06/starbucks.global.websites)** | A responsive clone of the Starbucks homepage, built to practice modern web layout and styling techniques. | `Html/Css/Js` `Web` |
 
 
 ---
